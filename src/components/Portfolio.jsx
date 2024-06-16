@@ -14,6 +14,7 @@ const items = [
     title: "Martial Arts Tournament Management Software",
     img: "/tournament.png",
     desc: "Developed a comprehensive martial arts tournament management software to streamline event operations.Developed a software application to streamline the management Of martial arts tournaments including online registration of participants,and other related activities",
+    url: "https://martial-arts-tournament-software.vercel.app/",
   },
   {
     id: 3,
