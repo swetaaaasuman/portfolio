@@ -25,7 +25,7 @@ const items = [
   },
   {
     id: 4,
-    title: "Report on Tooth detection in panoramic radiographss",
+    title: "Report on Tooth detection in panoramic radiographs",
     img: "/teeth.png",
     desc: "Used ML algorithm to segment and find region of interest in dental X-rays.This project facilitates image analysis and potentially aids in dental diagnostics",
     url: "https://drive.google.com/file/d/15iO-VAqhc-1T-xQB_gGDeLmK6FqExRCj/view?usp=sharing",
