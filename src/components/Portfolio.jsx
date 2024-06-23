@@ -25,6 +25,13 @@ const items = [
   },
   {
     id: 4,
+    title: "DeFi Crypto Website - Front End",
+    img: "/swap.png",
+    desc: "website using React and vanilla CSS;used React hooks to store the state of tokens and build re-usable, responsive components",
+    url: "https://de-fi-crypto-website-front-end-webs.vercel.app/",
+  },
+  {
+    id: 5,
     title: "Report on Tooth detection in panoramic radiographs",
     img: "/teeth.png",
     desc: "Used ML algorithm to segment and find region of interest in dental X-rays.This project facilitates image analysis and potentially aids in dental diagnostics",

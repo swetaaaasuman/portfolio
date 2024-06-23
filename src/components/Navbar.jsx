@@ -20,10 +20,7 @@ const Navbar = () => {
             <img src="/instagram.png" alt=""></img>
           </a>
           <a href="#">
-            <img src="/facebook.png" alt=""></img>
-          </a>
-          <a href="#">
-            <img src="/dribbble.png" alt=""></img>
+            <img src="/linkdin.png" alt=""></img>
           </a>
         </div>
       </div>
