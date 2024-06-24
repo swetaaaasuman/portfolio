@@ -21,7 +21,7 @@ const items = [
     title: "Login/Register Authorisation",
     img: "/firebase.png",
     desc: "A ReactJs login/registration form with Firebase Authentication,integrated Firebase in the React JS application to do Register, login, getting the user details and staying logged in until logout button is present,two services of firebase has been used:Authentication and Firestore",
-    url: "https://loginauth-mauve.vercel.app/",
+    url: "https://firebaseloginauth.netlify.app/",
   },
   {
     id: 4,
