@@ -25,10 +25,10 @@ const items = [
   },
   {
     id: 4,
-    title: "DeFi Crypto Website - Front End",
-    img: "/swap.png",
-    desc: "website using React and vanilla CSS;used React hooks to store the state of tokens and build re-usable, responsive components",
-    url: "https://de-fi-crypto-website-front-end-webs.vercel.app/",
+    title: "An Ecommerce Website - Front End",
+    img: "/com.png",
+    desc: "",
+    url: "https://dressuppage.netlify.app/",
   },
   {
     id: 5,
