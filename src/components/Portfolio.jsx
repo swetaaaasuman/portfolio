@@ -32,17 +32,17 @@ const items = [
   },
   {
     id: 5,
-    title: "Report on Tooth detection in panoramic radiographs",
-    img: "/teeth.png",
-    desc: "Used ML algorithm to segment and find region of interest in dental X-rays.This project facilitates image analysis and potentially aids in dental diagnostics",
-    url: "https://drive.google.com/file/d/15iO-VAqhc-1T-xQB_gGDeLmK6FqExRCj/view?usp=sharing",
-  },
-  {
-    id: 6,
     title: "Login/Register Authorisation",
     img: "/firebase.png",
     desc: "A ReactJs login/registration form with Firebase Authentication,integrated Firebase in the React JS application to do Register, login, getting the user details and staying logged in until logout button is present,two services of firebase has been used:Authentication and Firestore",
     url: "https://firebaseloginauth.netlify.app/",
+  },
+  {
+    id: 6,
+    title: "Report on Tooth detection in panoramic radiographs",
+    img: "/teeth.png",
+    desc: "Used ML algorithm to segment and find region of interest in dental X-rays.This project facilitates image analysis and potentially aids in dental diagnostics",
+    url: "https://drive.google.com/file/d/15iO-VAqhc-1T-xQB_gGDeLmK6FqExRCj/view?usp=sharing",
   },
 ];
 
