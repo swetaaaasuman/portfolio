@@ -1,0 +1,104 @@
+.experience {
+    position: relative;
+  
+    .progress {
+      position: sticky;
+      top: 0;
+      left: 0;
+      padding-top: 50px;
+      text-align: center;
+      color: orange;
+      font-size: 36px;
+  
+      .progressBar {
+        height: 10px;
+        background-color: white;
+      }
+    }
+  
+    .container {
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+      overflow: visible;
+      padding: 0 20px;
+    }
+  
+    .wrapper {
+      max-width: 1366px;
+      width: 100%;
+      margin: auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 30px;
+  
+      .textContainer {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+  
+        h4 {
+          font-size: 60px;
+          margin: 0;
+        }
+  
+        .duration {
+          font-size: 18px;
+          color: orange;
+          font-weight: bold;
+        }
+  
+        p {
+          color: gray;
+          font-size: 20px;
+          line-height: 1.6;
+          margin-top: 0;
+        }
+  
+        /* Key Learnings Styles */
+        .key-learnings {
+          margin-top: 30px;
+  
+          h5 {
+            font-size: 22px;
+            color: orange;
+            font-weight: bold;
+          }
+  
+          ul {
+            list-style-type: disc; /* Ensures that the list uses bullets (disc) */
+            padding-left: 20px;  /* Adjusts indentation of bullets */
+            color: gray;
+  
+            li {
+              font-size: 18px;
+              margin-bottom: 10px;
+              line-height: 1.6;
+            }
+          }
+        }
+  
+        /* Role Played/Contribution Styles */
+        .role-contribution {
+          margin-top: 30px;
+  
+          h5 {
+            font-size: 22px;
+            color: orange;
+            font-weight: bold;
+          }
+  
+          p {
+            font-size: 18px;
+            color: gray;
+            line-height: 1.6;
+          }
+        }
+      }
+    }
+  }
+  

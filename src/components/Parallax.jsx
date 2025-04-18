@@ -18,11 +18,14 @@ const Parallax = ({ type }) => {
         background:
           type === "services"
             ? "linear-gradient(180deg, #111132, #0c0c1d)"
+            : type === "experience"
+            ? "linear-gradient(180deg, #1a1a2e, #16213e)"
             : "linear-gradient(180deg, #111132, #505064)",
       }}
     >
       <motion.h1 style={{ y: yText }}>
-        {type === "skills" ? "Technical Skills" : "Projects"}
+        {type === "skills" ? "Technical Skills" : type === "experience"
+    ? "Internship" : "Projects"}
       </motion.h1>
       <motion.div className="mountains"></motion.div>
       <motion.div

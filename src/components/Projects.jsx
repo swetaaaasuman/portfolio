@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import "./Portfolio.scss";
+import "./Projects.scss";
 import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 const items = [
   {
@@ -76,7 +76,7 @@ const Single = ({ item }) => {
     </section>
   );
 };
-const Portfolio = () => {
+const Projects = () => {
   const ref = useRef();
   const { scrollYProgress } = useScroll({
     target: ref,
@@ -99,4 +99,4 @@ const Portfolio = () => {
   );
 };
 
-export default Portfolio;
+export default Projects;

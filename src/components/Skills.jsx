@@ -62,11 +62,13 @@ const Skills = () => {
           <ul>
             <li>C</li>
             <li>C++</li>
+            <li>C#</li>
             <li>Python</li>
             <li>Java</li>
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
+            <li>TypeScript</li>
           </ul>
         </motion.div>
 
@@ -78,10 +80,13 @@ const Skills = () => {
           <br />
           <ul>
             <li>ReactJs</li>
+            <li>Angular</li>
+            <li>Asp.net MVC framework</li>
             <li>Bootstrap</li>
             <li>TailwindCSS</li>
             <li>DaisyUI</li>
             <li>React-Toastify</li>
+            <li>Framer-Motion</li>
             <li>SCSS</li>
           </ul>
         </motion.div>
@@ -95,6 +100,7 @@ const Skills = () => {
           <ul>
             <li>GitHub</li>
             <li>Visual Studio Code</li>
+            <li>SQL Server Management Studio</li>
             <li>Vite</li>
           </ul>
         </motion.div>
